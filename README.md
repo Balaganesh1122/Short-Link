@@ -6,7 +6,7 @@ It allows users to shorten long URLs, share short links, and track click counts.
 🚀 Live Demo
 
 👉 Deployment Link:
-https://short-link-yourname.vercel.app
+https://short-link-smoky-eta.vercel.app/
 
 (Replace with your Vercel deployment URL)
 
